@@ -11,6 +11,10 @@
 
 Install project with npm
 
+## Live URL
+
+https://65bdfb7af55590687e48cd59--aesthetic-moonbeam-e72f2f.netlify.app/room/fec3952e-7790-4963-a54b-760b288bfbb6
+
 For frontend
 ```bash
   cd client
