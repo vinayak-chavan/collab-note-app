@@ -13,7 +13,7 @@ Install project with npm
 
 ## Live URL
 
-https://65bdfb7af55590687e48cd59--aesthetic-moonbeam-e72f2f.netlify.app/
+https://65bdfedc9ae4866a1d2a5ff0--aesthetic-moonbeam-e72f2f.netlify.app/
 
 For frontend
 ```bash
